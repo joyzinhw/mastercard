@@ -6,13 +6,14 @@
 	box-sizing: border-box;
 	font-family: 'Inter', sans-serif;
 }
+
 body{
 
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background: #ffdab9 ;
+	background: #ffffff ;
 }
 
 .container {
@@ -52,7 +53,7 @@ h5.master {
 }
 
 header .chip {
-	width: 60px;
+	width: 50px;
 }
 
 h6 {
